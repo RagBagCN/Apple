@@ -5,6 +5,7 @@
 ## 前言
 
 **BagBag自己所用记录**（大部分采用[千灵博客](https://qianling.pw/ios-app/#more)数据）
+
 一般旧版软件的资源占用会更少，因而更流畅、更省电，而且广告也会更少
 甚至某些 App 在旧版本的时候还没开始收费喔！如彩云天气Pro、白描！！没有被和谐的WiFi万能钥匙！
 
@@ -60,7 +61,7 @@ iTunes 下载（v12.6.5.3）：[Apple 支持](https://support.apple.com/zh-cn/HT
 > 添加到 iTunes 下载列表后即可停止拦截，抓取下一软件了。
 
 ## APP推荐
-
+参考[千灵博客](https://qianling.pw/ios-app/#more)数据
 QQ 8.4.9(iOS14照片权限，体积减小)
 
 

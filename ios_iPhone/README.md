@@ -62,6 +62,7 @@ iTunes 下载（v12.6.5.3）：[Apple 支持](https://support.apple.com/zh-cn/HT
 
 ## APP推荐
 参考[千灵博客](https://qianling.pw/ios-app/#more)数据
+
 QQ 8.4.9(iOS14照片权限，体积减小)
 
 
